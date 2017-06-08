@@ -1,1 +1,4 @@
-printf
+void main(void)
+{
+	printf("test\n");
+}
